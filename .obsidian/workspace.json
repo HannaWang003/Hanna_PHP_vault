@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "b594c3c47ac68ea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1834d004d4cc6b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "318d9e002269eb69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-上課筆記/2023-09-27_001.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "652af5e486fa7f3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e6d75ce3c7edf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a189b4db54db57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ea7aaf91824c7a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45aedd53bc65c44e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "84962a09d2f84ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6e578da1a6f3ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8326f6119be35353",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0-上課筆記/2023-09-27_001.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6f1778164cecd9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-上課筆記/2023-09-27_001.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caf67daa1694c358",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad637715cb0a825b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-上課筆記/2023-09-27_001.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "318d9e002269eb69",
+  "lastOpenFiles": [
+    "1-閃念筆記/obsidian.md",
+    "0-上課筆記/2023-09-27_001.md",
+    "1-閃念筆記/oCam.md",
+    "1-閃念筆記/attachments/Pasted image 20230927130828.png",
+    "0-上課筆記/2023-09-20_001.md",
+    "0-上課筆記/attachments/Pasted image 20230927105441.png",
+    "0-上課筆記/2023-09-21_001.md",
+    "0-上課筆記/2023-09-26_001.md",
+    "0-上課筆記/2023-09-22_001.md",
+    "1-閃念筆記/obs-studio.md",
+    "1-閃念筆記/attachments/Pasted image 20230924052448.png",
+    "1-閃念筆記/attachments/Pasted image 20230924052414.png",
+    "1-閃念筆記/attachments/Pasted image 20230924052315.png",
+    "1-閃念筆記/attachments/Pasted image 20230924052258.png",
+    "1-閃念筆記/attachments/Pasted image 20230924052113.png",
+    "1-閃念筆記/attachments/Pasted image 20230924052033.png",
+    "0-上課筆記/attachments/Pasted image 20230922213744.png",
+    "0-上課筆記/attachments/Pasted image 20230922213717.png",
+    "1-閃念筆記/attachments",
+    "Pasted image 2023092123059.png.md",
+    "1-閃念筆記",
+    "0-上課筆記/attachments",
+    "2023-09-20.md",
+    "2023-09-21_001",
+    "0-上課筆記"
+  ]
+}
