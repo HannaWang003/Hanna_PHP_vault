@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6bed531f12b76c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-上課筆記/2023-09-27_001.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,11 +159,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "318d9e002269eb69",
+  "active": "e6bed531f12b76c1",
   "lastOpenFiles": [
+    "0-上課筆記/2023-09-28_001.md",
+    "0-上課筆記/attachments/Pasted image 20230928083740.png",
+    "0-上課筆記/2023-09-27_001.md",
     "0-上課筆記/attachments/Pasted image 20230927151052.png",
     "1-閃念筆記/obsidian.md",
-    "0-上課筆記/2023-09-27_001.md",
     "1-閃念筆記/oCam.md",
     "1-閃念筆記/attachments/Pasted image 20230927130828.png",
     "0-上課筆記/2023-09-20_001.md",
@@ -165,8 +180,6 @@
     "1-閃念筆記/attachments/Pasted image 20230924052258.png",
     "1-閃念筆記/attachments/Pasted image 20230924052113.png",
     "1-閃念筆記/attachments/Pasted image 20230924052033.png",
-    "0-上課筆記/attachments/Pasted image 20230922213744.png",
-    "0-上課筆記/attachments/Pasted image 20230922213717.png",
     "1-閃念筆記/attachments",
     "Pasted image 2023092123059.png.md",
     "1-閃念筆記",
