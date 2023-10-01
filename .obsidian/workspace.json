@@ -32,19 +32,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "85197c3fa077d357",
+=======
+            "id": "e6bed531f12b76c1",
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "1-閃念筆記/git.md",
+=======
+                "file": "0-上課筆記/2023-09-28_001.md",
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 2
+=======
+        "currentTab": 1
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "1-閃念筆記/git.md",
+=======
+                "file": "0-上課筆記/2023-09-28_001.md",
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "1-閃念筆記/git.md",
+=======
+                "file": "0-上課筆記/2023-09-28_001.md",
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "1-閃念筆記/git.md"
+=======
+                "file": "0-上課筆記/2023-09-28_001.md"
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
               }
             }
           }
@@ -171,6 +195,7 @@
       "command-palette:開啟命令面板": false
     }
   },
+<<<<<<< HEAD
   "active": "46a189b4db54db57",
   "lastOpenFiles": [
     "attachments/Pasted image 20231001084943.png",
@@ -179,6 +204,15 @@
     "1-閃念筆記/git.md",
     "0-上課筆記/2023-09-21_001.md",
     "0-上課筆記/2023-09-20_001.md",
+=======
+  "active": "e6bed531f12b76c1",
+  "lastOpenFiles": [
+    "0-上課筆記/attachments/Pasted image 20230928142326.png",
+    "0-上課筆記/attachments/Pasted image 20230928130717.png",
+    "0-上課筆記/2023-09-27_001.md",
+    "0-上課筆記/2023-09-28_001.md",
+    "0-上課筆記/attachments/Pasted image 20230928083740.png",
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
     "0-上課筆記/attachments/Pasted image 20230927151052.png",
     "1-閃念筆記/obsidian.md",
     "1-閃念筆記/oCam.md",
@@ -192,8 +226,11 @@
     "1-閃念筆記/attachments/Pasted image 20230924052315.png",
     "1-閃念筆記/attachments/Pasted image 20230924052258.png",
     "1-閃念筆記/attachments/Pasted image 20230924052113.png",
+<<<<<<< HEAD
     "1-閃念筆記/attachments/Pasted image 20230924052033.png",
     "0-上課筆記/attachments/Pasted image 20230922213744.png",
+=======
+>>>>>>> 36606df922b6c6461c6210959f2674a2102190cc
     "1-閃念筆記/attachments",
     "Pasted image 2023092123059.png.md",
     "1-閃念筆記",
