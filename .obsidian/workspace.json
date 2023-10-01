@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-上課筆記/2023-09-20_001.md",
+                "file": "1-閃念筆記/git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-上課筆記/2023-09-20_001.md",
+                "file": "1-閃念筆記/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-上課筆記/2023-09-20_001.md",
+                "file": "1-閃念筆記/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-上課筆記/2023-09-20_001.md"
+                "file": "1-閃念筆記/git.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "940f8dcefb38f10c",
+  "active": "6f7c7a52f6d9786b",
   "lastOpenFiles": [
+    "1-閃念筆記/attachments/Pasted image 20231001185642.png",
+    "1-閃念筆記/attachments/Pasted image 20231001185343.png",
+    "0-上課筆記/2023-09-28_001.md",
+    "0-上課筆記/2023-09-20_001.md",
     "0-上課筆記/attachments/Pasted image 20231001180602.png",
     "1-閃念筆記/git.md"
   ]
