@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-上課筆記/2023-10-02_001.md",
+                "file": "0-上課筆記/2023-09-21_001.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-上課筆記/2023-10-02_001.md",
+                "file": "0-上課筆記/2023-09-21_001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-上課筆記/2023-10-02_001.md",
+                "file": "0-上課筆記/2023-09-21_001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-上課筆記/2023-10-02_001.md"
+                "file": "0-上課筆記/2023-09-21_001.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d4e1b173576a5fd9",
   "lastOpenFiles": [
-    "0-上課筆記/2023-09-21_001.md",
+    "0-上課筆記/attachments/Pasted image 20231003010130.png",
     "0-上課筆記/2023-09-20_001.md",
-    "0-上課筆記/2023-10-02_001.md"
+    "0-上課筆記/2023-10-02_001.md",
+    "0-上課筆記/2023-09-21_001.md"
   ]
 }
