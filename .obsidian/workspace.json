@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "1c051cf2e7cb9334",
+    "id": "097a9e944388e397",
     "type": "split",
     "children": [
       {
-        "id": "be7f1159cc3288d4",
+        "id": "99646ad71d9ce4c6",
         "type": "tabs",
         "children": [
           {
-            "id": "6f7c7a52f6d9786b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-閃念筆記/git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "721f6b71cacdb78d",
+            "id": "d4e1b173576a5fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "94b8738622965398",
+    "id": "bb809ca771e1344a",
     "type": "split",
     "children": [
       {
-        "id": "90bf6acab99e9c84",
+        "id": "82d443407f391da2",
         "type": "tabs",
         "children": [
           {
-            "id": "940f8dcefb38f10c",
+            "id": "335ce4046a275f67",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "4cbce937f41ad0b0",
+            "id": "9dd7aa4a013cebef",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "536551ab64f83207",
+            "id": "a04f5d634ad1f2aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "96bbb062b625e422",
+    "id": "8e83f15b32295a56",
     "type": "split",
     "children": [
       {
-        "id": "75986fce3452da80",
+        "id": "1be6fd44902405c6",
         "type": "tabs",
         "children": [
           {
-            "id": "c734f77c15d2f60f",
+            "id": "8cb0106cada1b3a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +97,7 @@
             }
           },
           {
-            "id": "24b791445bb5589c",
+            "id": "c14e5e4e4e9cc169",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +109,7 @@
             }
           },
           {
-            "id": "a4bb1ed7c922b924",
+            "id": "f04882d2d61fbcdc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +120,7 @@
             }
           },
           {
-            "id": "95f500d946a4a748",
+            "id": "7efead4de07b703a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -159,32 +146,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "721f6b71cacdb78d",
+  "active": "d4e1b173576a5fd9",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "0-上課筆記/2023-09-28_001.md",
-    "1-閃念筆記/git.md",
-    "1-閃念筆記/attachments/Pasted image 20231001185642.png",
-    "1-閃念筆記/attachments/Pasted image 20231001185343.png",
-    "0-上課筆記/2023-09-20_001.md",
-=======
-    "0-上課筆記/attachments/Pasted image 20231002155206.png",
-    "0-上課筆記/2023-09-20_001.md",
-    "0-上課筆記/2023-10-02_001.md",
-    "0-上課筆記/2023-09-28_001.md",
-    "0-上課筆記/2023-09-27_001.md",
-    "0-上課筆記/2023-09-26_001.md",
-    "0-上課筆記/2023-09-22_001.md",
     "0-上課筆記/2023-09-21_001.md",
-    "0-上課筆記/attachments/Pasted image 20231002102926.png",
-    "1-閃念筆記/oCam.md",
-    "1-閃念筆記/obsidian.md",
-    "1-閃念筆記/obs-studio.md",
-    "1-閃念筆記/git.md",
-    "1-閃念筆記/attachments/Pasted image 20230927130828.png",
-    "1-閃念筆記/attachments/Pasted image 20231001185642.png",
-    "1-閃念筆記/attachments/Pasted image 20231001185343.png",
->>>>>>> a5b8c9aca25410ad0ee5f9a58fe6eda07c13464a
-    "0-上課筆記/attachments/Pasted image 20231001180602.png"
+    "0-上課筆記/2023-09-20_001.md",
+    "0-上課筆記/2023-10-02_001.md"
   ]
 }
