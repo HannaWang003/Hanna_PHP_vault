@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c2f89e0b78dee55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-上課筆記/2023-10-03_001(kai).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-上課筆記/2023-09-21_001.md",
+                "file": "0-上課筆記/2023-10-03_001(kai).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-上課筆記/2023-09-21_001.md",
+                "file": "0-上課筆記/2023-10-03_001(kai).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-上課筆記/2023-09-21_001.md"
+                "file": "0-上課筆記/2023-10-03_001(kai).md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d4e1b173576a5fd9",
+  "active": "5c2f89e0b78dee55",
   "lastOpenFiles": [
+    "0-上課筆記/attachments/Pasted image 20231003111057.png",
+    "0-上課筆記/2023-09-21_001.md",
+    "0-上課筆記/2023-10-03_001(kai).md",
     "0-上課筆記/attachments/Pasted image 20231003010130.png",
     "0-上課筆記/2023-09-20_001.md",
-    "0-上課筆記/2023-10-02_001.md",
-    "0-上課筆記/2023-09-21_001.md"
+    "0-上課筆記/2023-10-02_001.md"
   ]
 }
