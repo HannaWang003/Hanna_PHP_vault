@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f613338f681f6758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-上課筆記/2023-10-11_001(kai).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-閃念筆記/vsocrd.md",
+                "file": "0-上課筆記/2023-10-11_001(kai).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-閃念筆記/vsocrd.md",
+                "file": "0-上課筆記/2023-10-11_001(kai).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-閃念筆記/vsocrd.md"
+                "file": "0-上課筆記/2023-10-11_001(kai).md"
               }
             }
           }
@@ -159,21 +171,27 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a0ae76e2e95d713d",
+  "active": "f613338f681f6758",
   "lastOpenFiles": [
+    "0-上課筆記/attachments/Pasted image 20231011102844.png",
+    "0-上課筆記/2023-10-04_001(kai).md",
+    "0-上課筆記/attachments/Pasted image 20231011091724.png",
+    "0-上課筆記/attachments/Pasted image 20231011091551.png",
+    "0-上課筆記/2023-10-03_001(kai).md",
+    "0-上課筆記/attachments/Pasted image 20231011085647.png",
+    "0-上課筆記/2023-10-11_001(kai).md",
+    "0-上課筆記/attachments/Pasted image 20231011084605.png",
+    "0-上課筆記/2023-10-05_001(fire).md",
+    "1-閃念筆記/vsocrd.md",
     "1-閃念筆記/attachments/Pasted image 20231009082308.png",
     "1-閃念筆記/attachments/Pasted image 20231009082244.png",
     "1-閃念筆記/oCam.md",
-    "1-閃念筆記/vsocrd.md",
     "1-閃念筆記/obsidian.md",
     "1-閃念筆記/obs-studio.md",
     "1-閃念筆記/git.md",
-    "0-上課筆記/2023-10-04_001(kai).md",
-    "0-上課筆記/2023-10-05_001(fire).md",
     "0-上課筆記/2023-10-06_001(Mackliu).md",
     "2023-10-06_001(Mackliu).md",
     "0-上課筆記/2023-09-21_001.md",
-    "0-上課筆記/2023-10-03_001(kai).md",
     "0-上課筆記/2023-09-22_001.md",
     "0-上課筆記/2023-10-02_001.md",
     "0-上課筆記/2023-09-20_001.md",
